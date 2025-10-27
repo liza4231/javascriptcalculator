@@ -1,1 +1,1 @@
-# javascriptcalculator
+# Calculator for basic arithmetic operations.  The history of calculations and results are displayed to the user 
